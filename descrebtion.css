@@ -1,0 +1,147 @@
+.container{
+    margin-right: 40px;
+}
+
+.div{
+    display: flex;   
+}
+
+.words{
+    margin-right: 80px;
+    color: darkorange;
+}
+.div2{
+    display: flex;
+}
+.button{
+    margin-right: 230px;
+    height: 40px;
+    width: 180px;
+    background-color: darkorange;
+    border-color: darkorange;
+    cursor: pointer;
+    margin-top: 15px;
+}
+.icon{
+   color: white;
+    position: absolute;
+    margin-right: 670px;
+    margin-top: 26px;
+}
+.word{
+    margin-left: 50px;
+    color: white;
+    font-size: 15px
+}
+.div3{
+    display: flex;
+}
+
+.paragraph{
+    margin-right: 80px;
+}
+.paragraph2{
+    margin-right: 420px;
+}
+.div4{
+    display: flex;
+    background-color:whitesmoke;
+    margin-right: 80px;
+    width: 630px;
+    
+}
+.word2{
+    margin-right: 40px;
+}
+.word3{
+    margin-right: 300px
+}
+
+.div5{
+    display: flex;
+    background-color:white;
+    margin-right: 80px;
+     width: 630px;
+}
+
+.word4{
+    margin-right: 270px
+}
+.word5{
+    margin-right: 260px
+}
+.word6{
+    margin-right: 270px
+}
+.paragraph3{
+    margin-right: 80px;
+     width: 630px;
+}
+
+a{
+    text-decoration: none;
+    color: gray;
+    margin-right: 70px;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: darkorange;
+}
+
+.man{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    margin-top: 20px;
+}
+
+.third_container{
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+ }
+
+
+.icon2{
+    margin-right: 10px;
+    color: darkorange;
+    margin-top: 5px
+}
+
+.paragraph4{
+    margin-right: 20px;
+}
+
+
+.span{
+    background-color: whitesmoke;
+    margin-right: 40px;
+    width: 620px;
+    height: 65px;
+}
+
+.type{
+    margin-right: 85px;
+
+}
+.span1{
+    background-color: whitesmoke;
+    margin-right: 40px;
+    width: 910px;
+    height: 65px;
+}
+
+.span2{
+    background-color: whitesmoke;
+    margin-right: 40px;
+    width: 350px;
+    height: 65px;
+}
+
+.span3{
+    background-color: whitesmoke;
+    margin-right: 40px;
+    width: 550px;
+    height: 65px;
+}

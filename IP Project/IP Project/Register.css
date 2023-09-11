@@ -1,0 +1,118 @@
+.para1{
+     font-family: sans-serif;
+     text-align: center;
+    font-size: 25px;
+    margin-bottom: 50px;
+    margin-right: 8px;
+     padding-top: 10px;
+    color:black;
+     font-style: oblique;
+     
+
+ }
+
+ .div1{
+     position: absolute;
+     width: 250px;
+     margin-right: 660px;
+     
+}
+
+ .div2{
+   color:cornflowerblue;
+   background-color: white;
+   box-shadow: 1px 1px 5px grey ;
+   text-align: center;
+   width: 35%;
+   height: 520px;
+   margin-top: 120px;
+   margin-right: 100px;
+}
+ 
+
+ input{
+    box-shadow:0 0 1px 1px black;
+    margin-bottom: 20px;
+    margin-top: 7px;
+    border: none;
+    width: 410px;
+    height: 38px
+
+ }
+
+/*
+ textarea{
+
+    width: 287px;
+    height: 83px;
+    border: none;
+    margin-top: 7px;
+}
+*/
+ 
+.submit{
+    width: 406px;
+    height: 35px;
+    margin-top: 2px;
+    background-color:rgb(50,50,50);
+    font-size: 15px;
+    border-radius: 5px;
+    border: none;
+    color: whitesmoke;
+    cursor: pointer;
+}
+.Register{
+    width: 70px;
+    height:25 px;
+    margin-top:2px;
+    color:rgb(50,50,50);
+    background-color:white;
+    font-size: 22px;
+    border-radius:10px;
+    border: none;
+    cursor: pointer;
+}
+.para{
+ white-space: pre;
+font-size: 22px;
+ color: black
+ 
+}
+
+.cust{
+    position: absolute;
+    background: #fff;
+    margin-top: 8px;
+    margin-right: 370px;
+    width: 40px;
+    height: 10px;
+    padding-top: 11px;
+    border: 1px solid #fff;
+    color:darkorange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
